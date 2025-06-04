@@ -1,4 +1,4 @@
-var scriptURL = "https://script.google.com/macros/s/AKfycbzWYAAR3CBhyAS1PDf7LThjNPYfwHrLjYTZWU05Vqz10LQAB2MpDUbNeiR0NDkX5D4kLw/exec";
+var scriptURL = "https://script.google.com/macros/s/AKfycbwn0wRe1_xCC23Riwy_ZONlzqmwJdhjSBKsjHpY1Xo7ZfTGgL3H41Z90stuS_X9JAHpBA/exec";
 
 /**
  * Initializations
